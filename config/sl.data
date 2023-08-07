@@ -1,0 +1,6 @@
+classes = 1
+train = /home/junjzhan/LY/Infrared_project_v2/data/ALLdata/NEWestdata/newestV1xishu/real/train.txt
+valid = /home/junjzhan/LY/Infrared_project_v2/data/ALLdata/NEWestdata/newestV1xishu/real/val.txt
+test = /home/junjzhan/LY/Infrared_project_v2/data/ALLdata/NEWestdata/newestV1xishu/real/test.txt
+names = /home/junjzhan/LY/Infrared_project/yolov3/config/sldata.names
+backup = backup
